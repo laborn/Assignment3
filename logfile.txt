@@ -1,0 +1,26 @@
+Initializing Investment Tracker logfile on 2017-05-29 at 20:46:40.454
+Chose Trading
+Chose last trade price
+Comma found
+Chose P/E ratio
+"IBM","International Business Machines",152.49,"4:02pm",12.54"MSFT","Microsoft Corporation",69.96,"4:00pm",30.87"PRHSX","T. Rowe Price Health Sciences F",67.15,"8:00pm",N/AChose Styles
+Chose 1
+An aggressive portfolio has a 90:10 blend of stocks to mutual funds.
+Added stock MSFT
+Added stock SBUX
+Added stock IBM
+Added mutual fund TPINX
+Chose Styles
+Chose 3
+An income portfolio has a 50:50 blend of stocks to mutual funds.
+Added mutual fund DODFX
+Added stock SBUX
+Added stock IBM
+Added mutual fund TPINX
+Chose Portfolio Management
+Input: FB
+Added stock FB
+Chose Portfolio Management
+Input: TPINX
+Added mutual fund TPINX
+Chose to exit
